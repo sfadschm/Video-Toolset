@@ -1,10 +1,16 @@
 # Video Toolset
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/sfadschm/Video-Toolset)](https://github.com/sfadschm/Video-Toolset/releases)
+[![GitHub license](https://img.shields.io/github/license/sfadschm/Video-Toolset)](https://github.com/sfadschm/Video-Toolset/blob/develop/LICENSE)
 
 This is a LabView 2010 project for operating, viewing and recording video sources (Webcams, TV-Cards, ...).
 
 The project is derived from example code from the NI community, which is available with a `MIT License` here:
 
 [DirectShow .NET LabVIEW SDK (Video, Audio, IP streams)](https://forums.ni.com/t5/Example-Code/DirectShow-NET-LabVIEW-SDK-Video-Audio-IP-streams/ta-p/3493927)
+
+The project is located at [GitHub](https://github.com/sfadschm/Video-Toolset).
+
+Please take note of recent changes in the [*Changelog*](https://github.com/sfadschm/Video-Toolset/blob/develop/CHANGELOG.md) before switching to a new version.
 
 ## Requirements
 
@@ -27,3 +33,5 @@ Please note the interactive menus on top of the screen.
 
 ## License
 This project is published unter the `MIT License`.
+
+For more information, please refer to the [*License*](https://github.com/sfadschm/Video-Toolset/blob/develop/LICENSE).
