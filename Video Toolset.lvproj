@@ -143,18 +143,18 @@
 				<Property Name="Destination[1].path" Type="Path">../NI_AB_PROJECTNAME/build/data</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="Exe_iconItemID" Type="Ref">/Mein Computer/Symbol.ico</Property>
-				<Property Name="Source[0].itemID" Type="Str">{6DBB1B28-00AB-4B4E-A9AE-922E4406C6E6}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{5FCADA47-AC50-4DAD-81BE-A2DDEBE8DAA7}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[1].itemID" Type="Ref">/Mein Computer/config/defaults.ini</Property>
+				<Property Name="Source[1].itemID" Type="Ref">/Mein Computer/config/Video Toolset.exe.config</Property>
 				<Property Name="Source[1].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[2].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[2].itemID" Type="Ref">/Mein Computer/config/Video Toolset.exe.config</Property>
-				<Property Name="Source[2].sourceInclusion" Type="Str">Include</Property>
+				<Property Name="Source[2].itemID" Type="Ref">/Mein Computer/vi/Video Toolset v10.1.0.vi</Property>
+				<Property Name="Source[2].sourceInclusion" Type="Str">TopLevel</Property>
+				<Property Name="Source[2].type" Type="Str">VI</Property>
 				<Property Name="Source[3].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[3].itemID" Type="Ref">/Mein Computer/vi/Video Toolset v10.1.0.vi</Property>
-				<Property Name="Source[3].sourceInclusion" Type="Str">TopLevel</Property>
-				<Property Name="Source[3].type" Type="Str">VI</Property>
+				<Property Name="Source[3].itemID" Type="Ref">/Mein Computer/vi/data/defaults.ini</Property>
+				<Property Name="Source[3].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="SourceCount" Type="Int">4</Property>
 				<Property Name="TgtF_companyName" Type="Str">Universität Duisburg-Essen, WET</Property>
 				<Property Name="TgtF_fileVersion.major" Type="Int">10</Property>
